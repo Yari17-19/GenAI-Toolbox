@@ -1,0 +1,19 @@
+# Tool 2: Gemini (Google)
+
+## Features:
+- Integrated with Google Maps for location-based data
+- Offers real-time information on places, such as store locations
+
+## Strengths:
+- Visually appealing and user-friendly interface
+
+## Limitations:
+- Limited deductive abilities compared to other tools
+- Struggles with providing advanced or personalized suggestions
+- Doesn’t analyze data as deeply as needed for more complex tasks (e.g., budget planning or crowd predictions)
+
+## Use Case in the Project:
+Gemini was used primarily for gathering location data (e.g., finding stores nearby) and assessing crowd levels. However, it fell short when asked to provide a more comprehensive analysis, such as suggesting the most affordable shops or determining the best times to visit based on personal schedule constraints.
+
+## Summary:
+While Gemini offers a helpful integration with Google Maps and is useful for location-based queries, it lacks the depth and customization needed for more advanced tasks like budgeting or detailed planning. For more complex workflows, tools with stronger deductive capabilities, such as ChatGPT, proved superior.
